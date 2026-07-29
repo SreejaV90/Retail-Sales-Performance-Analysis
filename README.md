@@ -216,12 +216,11 @@ DIVIDE([LossOrders], [Total orders], 0)
 Add your Power BI dashboard screenshot here.
 
 Save the screenshot in the repository, for example:##  Data Collection
-*   **Source Data:** The analysis is built upon a raw dataset. This dataset was sourced from [Kaggle](https://www.kaggle.com/code/zainabmim/retail-sales-performance-analysis/input)
+*   **Source Data:** The analysis is built upon a raw dataset. This dataset was sourced from [Kaggle](https://www.kaggle.com/code/zainabmim/retail-sales-performance-analysis/input)(Retail-Sales-performance-Analysis)
 
 
-"dashboard.png"
 
-Then add:
+
 
 ![power-bi-prjc.pbix](Images/Page1.png)
 ![power-bi-prjc.pbix](Images/Page2.png)
