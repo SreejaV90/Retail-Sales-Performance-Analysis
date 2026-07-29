@@ -223,7 +223,9 @@ Save the screenshot in the repository, for example:##  Data Collection
 
 Then add:
 
-![power-bi-prjc.pbix](Images/
+![power-bi-prjc.pbix](Images/Page1.png)
+![power-bi-prjc.pbix](Images/Page2.png)
+![power-bi-prjc.pbix](Images/Page3.png)
 
 
 ---
